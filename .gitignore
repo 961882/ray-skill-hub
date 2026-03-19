@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+state/
+registry/index.json
+
+# Local agent tooling
+.agent/
+.agents/
+.claude/
+.cursor/
+.obsidian/
+.opencode/
