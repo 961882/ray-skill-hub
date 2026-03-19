@@ -1,5 +1,7 @@
 # RaySkillHub
 
+[English](README.md) | [简体中文](README_ZH.md)
+
 `RaySkillHub` is a local-first skill control plane for AI agent tools.
 
 This public-core snapshot keeps only the essential source code, canonical skills, and adapter logic needed to build and understand the project. Extended docs, test sources, planning assets, release artifacts, and local machine state are intentionally excluded from the tracked GitHub repository.
