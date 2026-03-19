@@ -8,6 +8,13 @@ registry/index.json
 _bmad/
 _bmad-output/
 conversation-*.md
+docs/
+CHANGELOG.md
+src/**/*.test.ts
+src/**/test-helpers.ts
+registry/.gitkeep
+skills/.gitkeep
+src/.gitkeep
 
 # Local agent tooling
 .agent/

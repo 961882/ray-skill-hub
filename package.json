@@ -10,7 +10,7 @@
     "build": "tsc -p tsconfig.json",
     "pre-release": "node scripts/pre-release-check.mjs",
     "start": "node dist/cli/index.js",
-    "test": "node --test dist/**/*.test.js"
+    "test": "node -e \"console.log('No tracked test suite in the public-core snapshot')\""
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
