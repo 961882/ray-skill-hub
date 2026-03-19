@@ -16,10 +16,8 @@
 
 ## 规划与架构
 
-- `_bmad-output/planning-artifacts/prd.md`
-- `_bmad-output/planning-artifacts/architecture.md`
-- `_bmad-output/planning-artifacts/epics-and-user-stories.md`
-- `_bmad-output/planning-artifacts/implementation-tasks.md`
+- 公开 GitHub 仓库默认不包含 `_bmad/` 与 `_bmad-output/` 等内部规划资产。
+- 对外可见的产品、验收与发布信息，以 `README.md`、`CHANGELOG.md` 和本目录文档为准。
 
 ## 测试与发布
 

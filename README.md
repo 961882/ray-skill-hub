@@ -133,10 +133,8 @@ rayskillhub sync --agent codex --skill example-skill --dry-run --json
 
 ### 面向产品与架构
 
-- `_bmad-output/planning-artifacts/prd.md`
-- `_bmad-output/planning-artifacts/architecture.md`
-- `_bmad-output/planning-artifacts/epics-and-user-stories.md`
-- `_bmad-output/planning-artifacts/implementation-tasks.md`
+- 公开 GitHub 仓库默认不包含内部 BMAD 规划资产（如 `_bmad/`、`_bmad-output/`）。
+- 如果需要对外说明产品边界与发布能力，请优先阅读 `README.md`、`CHANGELOG.md` 与 `docs/` 下的发布/验收文档。
 
 ## 设计结论
 

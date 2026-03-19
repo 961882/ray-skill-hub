@@ -5,6 +5,9 @@ dist/
 .env.*
 state/
 registry/index.json
+_bmad/
+_bmad-output/
+conversation-*.md
 
 # Local agent tooling
 .agent/
