@@ -1,0 +1,26 @@
+[
+  {
+    "agentName": "claude-code",
+    "adapterName": "claude-code",
+    "defaultInstallPath": "~/.claude/skills",
+    "syncMode": "copy"
+  },
+  {
+    "agentName": "codex",
+    "adapterName": "codex",
+    "defaultInstallPath": "~/.codex/skills",
+    "syncMode": "copy"
+  },
+  {
+    "agentName": "openclaw",
+    "adapterName": "openclaw",
+    "defaultInstallPath": "~/.openclaw/skills",
+    "syncMode": "copy"
+  },
+  {
+    "agentName": "opencode",
+    "adapterName": "opencode",
+    "defaultInstallPath": "~/.config/opencode/skills",
+    "syncMode": "copy"
+  }
+]

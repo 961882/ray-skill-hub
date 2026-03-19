@@ -1,0 +1,15 @@
+{
+  "name": "example-skill",
+  "version": "0.1.0",
+  "entry": "SKILL.md",
+  "description": "Use when the user says \"example trigger\".",
+  "tags": [
+    "example"
+  ],
+  "triggers": [
+    "example trigger"
+  ],
+  "compatibleAgents": [
+    "codex"
+  ]
+}

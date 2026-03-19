@@ -1,0 +1,19 @@
+{
+  "name": "example-skill",
+  "version": "0.1.0",
+  "entry": "SKILL.md",
+  "tags": [
+    "demo",
+    "example"
+  ],
+  "triggers": [
+    "example skill",
+    "demo skill"
+  ],
+  "compatibleAgents": [
+    "claude-code",
+    "codex",
+    "opencode",
+    "openclaw"
+  ]
+}

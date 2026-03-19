@@ -1,0 +1,20 @@
+{
+  "name": "demo-exec-skill",
+  "version": "0.1.0",
+  "entry": "SKILL.md",
+  "tags": [
+    "demo-exec-skill",
+    "example"
+  ],
+  "triggers": [
+    "Demo Exec Skill skill",
+    "example trigger"
+  ],
+  "compatibleAgents": [
+    "codex",
+    "claude-code"
+  ],
+  "scripts": {
+    "run": "bash ./scripts/run.sh"
+  }
+}

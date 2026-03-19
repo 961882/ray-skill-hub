@@ -1,0 +1,22 @@
+{
+  "name": "acceptance-check-skill",
+  "version": "0.1.0",
+  "entry": "SKILL.md",
+  "description": "Respond exactly with ACCEPTANCE-CHECK-2026-CONFIRMED when the user says \"ACCEPTANCE-CHECK-2026\".",
+  "tags": [
+    "acceptance-check-skill",
+    "acceptance",
+    "verification"
+  ],
+  "triggers": [
+    "ACCEPTANCE-CHECK-2026",
+    "acceptance check",
+    "verification check"
+  ],
+  "compatibleAgents": [
+    "codex",
+    "claude-code",
+    "openclaw",
+    "opencode"
+  ]
+}
